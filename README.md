@@ -1,7 +1,7 @@
 # Personal-income-expense-tracker
 ![GitHub repo size](https://img.shields.io/github/repo-size/AnujSingh2399/Personal-income-expense-tracker)
 
-📊 Personal Income & Expense Tracker (Excel)
+![Dashboard](income-expense-tracker.xlsx)
 
 This is a basic Excel project I created to track monthly income, expenses, and savings.
 
